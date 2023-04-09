@@ -1,0 +1,31 @@
+
+body {
+    margin: 0;
+}
+
+.container {
+    margin: 10px;
+}
+
+.item-span {
+    padding: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    background-color: cadetblue;
+    color: white;
+    font-size: 20px;
+}
+
+.item-div {
+    padding: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    background-color: cadetblue;
+    color: white;
+    font-size: 20px;
+}
+
+.item-wrapper {
+    margin-bottom: 10px;
+    height: 40px;
+}

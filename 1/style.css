@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+}
+
+.container {
+    margin: 20px;
+}
+
+.title {
+    color: rgb(223, 61, 94);
+    margin-bottom: 40px;
+}
+
+.link-wrapper {
+    margin-bottom: 10px;
+    height: 40px;
+}
+
+.link {
+    padding: 10px;
+    background-color: rgb(223, 61, 94);
+    border-radius: 4px;
+    color: white;
+}

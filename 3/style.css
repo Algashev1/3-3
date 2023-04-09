@@ -1,0 +1,32 @@
+
+body {
+    margin: 0;
+}
+
+.container {
+    margin: 10px;
+}
+
+.text-wrapper {
+    background-color: darkslateblue;
+    color: white;
+    font-size: 20px;
+    padding: 40px;
+    margin: 20px 40px;
+   
+}
+
+.text {
+    text-align: center; 
+    /* text-align: left; */
+    /* text-align: right; */
+    /* text-align: justify; */
+}
+
+.block {
+    /* не работает, потому что это блок, а не текст */
+    text-align: center;
+    width: 100px;
+    height: 100px;
+    background-color: red;
+}
